@@ -71,7 +71,8 @@
     { "id": 69, "category": "シューター", "name": ".96ガロンデコ", "subWeapon": "スプラッシュシールド", "special": "スーパーチャクチ" },
     { "id": 70, "category": "チャージャー", "name": "ソイチューバーカスタム", "subWeapon": "カーリングボム", "special": "ジェットパック" },
     { "id": 71, "category": "スロッシャー", "name": "スクリュースロッシャーネオ", "subWeapon": "ポイントセンサー", "special": "スプラッシュボムピッチャー" },
-    { "id": 72, "category": "ブラスター", "name": "ノヴァブラスターネオ", "subWeapon": "トラップ", "special": "キューバンボムピッチャー" }
+    { "id": 72, "category": "ブラスター", "name": "ノヴァブラスターネオ", "subWeapon": "トラップ", "special": "キューバンボムピッチャー" },
+    { "id": 73, "category": "マニューバー", "name": "クアッドホッパーブラック", "subWeapon": "ロボットボム", "special": "スーパーチャクチ" }
   ],
   "subWeapons": [
     { "id": 1, "name": "スプラッシュボム" },
