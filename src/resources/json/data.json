@@ -77,7 +77,8 @@
     { "id": 75, "category": "シューター", "name": "H3リールガンD", "subWeapon": "キューバンボム", "special": "インクアーマー" },
     { "id": 76, "category": "スピナー", "name": "スプラスピナーコラボ", "subWeapon": "カーリングボム", "special": "アメフラシ" },
     { "id": 77, "category": "シェルター", "name": "パラシェルターソレーラ", "subWeapon": "ロボットボム", "special": "スプラッシュボムピッチャー" },
-    { "id": 78, "category": "ブラスター", "name": "クラッシュブラスターネオ", "subWeapon": "カーリングボム", "special": "マルチミサイル" }
+    { "id": 78, "category": "ブラスター", "name": "クラッシュブラスターネオ", "subWeapon": "カーリングボム", "special": "マルチミサイル" },
+    { "id": 79, "category": "スロッシャー", "name": "ヒッセン・ヒュー", "subWeapon": "スプラッシュボム", "special": "アメフラシ" }
   ],
   "subWeapons": [
     { "id": 1, "name": "スプラッシュボム" },
