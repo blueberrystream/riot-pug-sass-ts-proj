@@ -79,7 +79,11 @@
     { "id": 77, "category": "シェルター", "name": "パラシェルターソレーラ", "subWeapon": "ロボットボム", "special": "スプラッシュボムピッチャー" },
     { "id": 78, "category": "ブラスター", "name": "クラッシュブラスターネオ", "subWeapon": "カーリングボム", "special": "マルチミサイル" },
     { "id": 79, "category": "スロッシャー", "name": "ヒッセン・ヒュー", "subWeapon": "スプラッシュボム", "special": "アメフラシ" },
-    { "id": 80, "category": "ブラスター", "name": "ロングブラスターカスタム", "subWeapon": "カーリングボム", "special": "バブルランチャー" }
+    { "id": 80, "category": "ブラスター", "name": "ロングブラスターカスタム", "subWeapon": "カーリングボム", "special": "バブルランチャー" },
+    { "id": 81, "category": "シューター", "name": "シャープマーカーネオ", "subWeapon": "クイックボム", "special": "キューバンボムピッチャー" },
+    { "id": 82, "category": "シューター", "name": "ボトルガイザーフォイル", "subWeapon": "スプラッシュボム", "special": "バブルランチャー" },
+    { "id": 83, "category": "チャージャー", "name": "スクイックリンβ", "subWeapon": "ロボットボム", "special": "イカスフィア" },
+    { "id": 84, "category": "シューター", "name": "ケルビン525デコ", "subWeapon": "スプラッシュシールド", "special": "イカスフィア" }
   ],
   "subWeapons": [
     { "id": 1, "name": "スプラッシュボム" },
