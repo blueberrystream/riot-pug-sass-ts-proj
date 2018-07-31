@@ -91,7 +91,11 @@
     { "id": 89, "category": "チャージャー", "name": "十四式竹筒銃・乙", "subWeapon": "ポイズンミスト", "special": "クイックボムピッチャー" },
     { "id": 90, "category": "シェルター", "name": "キャンピングシェルターソレーラ", "subWeapon": "スプラッシュシールド", "special": "カーリングボムピッチャー" },
     { "id": 91, "category": "スピナー", "name": "クーゲルシュライバー", "subWeapon": "ポイズンミスト", "special": "ジェットパック" },
-    { "id": 92, "category": "スロッシャー", "name": "エクスプロッシャー", "subWeapon": "スプリンクラー", "special": "バブルランチャー" }
+    { "id": 92, "category": "スロッシャー", "name": "エクスプロッシャー", "subWeapon": "スプリンクラー", "special": "バブルランチャー" },
+    { "id": 93, "category": "マニューバー", "name": "クアッドホッパーホワイト", "subWeapon": "スプリンクラー", "special": "ロボットボムピッチャー" },
+    { "id": 94, "category": "スピナー", "name": "ハイドラントカスタム", "subWeapon": "トラップ", "special": "インクアーマー" },
+    { "id": 95, "category": "スロッシャー", "name": "オーバーフロッシャー", "subWeapon": "スプラッシュシールド", "special": "アメフラシ" },
+    { "id": 96, "category": "スピナー", "name": "ノーチラス47", "subWeapon": "ポイントセンサー", "special": "イカスフィア" },
   ],
   "subWeapons": [
     { "id": 1, "name": "カーリングボム" },
