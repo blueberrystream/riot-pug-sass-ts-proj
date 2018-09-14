@@ -95,7 +95,11 @@
     { "id": 93, "category": "マニューバー", "name": "クアッドホッパーホワイト", "subWeapon": "スプリンクラー", "special": "ロボットボムピッチャー" },
     { "id": 94, "category": "スピナー", "name": "ハイドラントカスタム", "subWeapon": "トラップ", "special": "インクアーマー" },
     { "id": 95, "category": "スロッシャー", "name": "オーバーフロッシャー", "subWeapon": "スプラッシュシールド", "special": "アメフラシ" },
-    { "id": 96, "category": "スピナー", "name": "ノーチラス47", "subWeapon": "ポイントセンサー", "special": "イカスフィア" }
+    { "id": 96, "category": "スピナー", "name": "ノーチラス47", "subWeapon": "ポイントセンサー", "special": "イカスフィア" },
+    { "id": 97, "category": "シューター", "name": "スプラシューターベッチュー", "subWeapon": "キューバンボム", "special": "マルチミサイル" },
+    { "id": 98, "category": "ローラー", "name": "スプラローラーベッチュー", "subWeapon": "スプラッシュボム", "special": "バブルランチャー" },
+    { "id": 99, "category": "チャージャー", "name": "スプラチャージャーベッチュー", "subWeapon": "スプリンクラー", "special": "イカスフィア" },
+    { "id": 100, "category": "マニューバー", "name": "スプラマニューバーベッチュー", "subWeapon": "キューバンボム", "special": "イカスフィア" }
   ],
   "subWeapons": [
     { "id": 1, "name": "カーリングボム" },
