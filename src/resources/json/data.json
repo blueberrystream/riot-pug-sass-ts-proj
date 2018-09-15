@@ -99,7 +99,8 @@
     { "id": 97, "category": "シューター", "name": "スプラシューターベッチュー", "subWeapon": "キューバンボム", "special": "マルチミサイル" },
     { "id": 98, "category": "ローラー", "name": "スプラローラーベッチュー", "subWeapon": "スプラッシュボム", "special": "バブルランチャー" },
     { "id": 99, "category": "チャージャー", "name": "スプラチャージャーベッチュー", "subWeapon": "スプリンクラー", "special": "イカスフィア" },
-    { "id": 100, "category": "マニューバー", "name": "スプラマニューバーベッチュー", "subWeapon": "キューバンボム", "special": "イカスフィア" }
+    { "id": 100, "category": "チャージャー", "name": "スプラスコープベッチュー", "subWeapon": "スプリンクラー", "special": "イカスフィア" },
+    { "id": 101, "category": "マニューバー", "name": "スプラマニューバーベッチュー", "subWeapon": "キューバンボム", "special": "イカスフィア" }
   ],
   "subWeapons": [
     { "id": 1, "name": "カーリングボム" },
