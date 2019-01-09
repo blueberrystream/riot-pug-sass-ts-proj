@@ -1,4 +1,7 @@
 # wkrand
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/blueberrystream/wkrand.svg)](https://greenkeeper.io/)
+
 Splatoon Randomizer for WORKS＊
 
 ## fork from
